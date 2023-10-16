@@ -1,3 +1,6 @@
+©2023, All rights reserved to Devsatyam Ray.
+IT IS FREE TO USE BUT TAKE PERMISSION BEFORE CHANGING THE SOURCE CODE.
+
 # Data-Security-Lab
 This is an interactive platform to secure data very easily.
 # Status
