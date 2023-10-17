@@ -3,7 +3,7 @@ IT IS FREE TO USE BUT TAKE PERMISSION BEFORE CHANGING THE SOURCE CODE.
 
 # Data-Security-Lab
 This is an interactive platform to secure data very easily.<br>
-<pic>image.png</pic>
+![Screenshot](image.png)
 # Status
  In Development phase<br>
  Compatible on Debian GNU
