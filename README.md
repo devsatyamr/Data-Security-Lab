@@ -7,5 +7,10 @@ This is an interactive platform to secure data very easily.
  In Development phase<br>
  Compatible on Debian GNU
 # Installation
+Clone to the Repository
  <code>git clone https://github.com/devsatyamr/Data-Security-Lab</code><br>
- <code>cd Data-Security-Lab</code>
+cd to the project Directory<br>
+ <code>cd Data-Security-Lab</code><br>
+Manually install packages on your Linux Distro<br>
+ <code>sudo apt-get install cat.txt</code>
+ 
