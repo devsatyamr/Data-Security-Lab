@@ -12,5 +12,8 @@ Clone the Repository<br>
 cd to the project Directory<br>
  <code>cd Data-Security-Lab</code><br>
 Manually install packages on your Linux Distro<br>
- <code>sudo apt-get install $cat.txt</code>
- 
+ <code>sudo apt-get install $cat.txt</code><br>
+Run the .sh file<br>
+<code>./lab.sh</code> OR <code>bash /lab.sh </code><br>
+
+That's it! You are good to go!
