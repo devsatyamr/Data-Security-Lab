@@ -2,7 +2,8 @@
 IT IS FREE TO USE BUT TAKE PERMISSION BEFORE CHANGING THE SOURCE CODE.
 
 # Data-Security-Lab
-This is an interactive platform to secure data very easily.
+This is an interactive platform to secure data very easily.<br>
+<pic>image.png</pic>
 # Status
  In Development phase<br>
  Compatible on Debian GNU
