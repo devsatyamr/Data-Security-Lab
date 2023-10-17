@@ -14,6 +14,8 @@ cd to the project Directory<br>
  <code>cd Data-Security-Lab</code><br>
 Manually install packages on your Linux Distro<br>
  <code>xargs -a cat.txt sudo apt install -y</code><br>
+Pip Install Python Requirements<br>
+ <code>pip install -r req.txt</code><br>
 Run the .sh file<br>
 <code>./lab.sh</code> OR <code>bash lab.sh </code><br>
 
