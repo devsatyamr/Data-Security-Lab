@@ -6,6 +6,7 @@ red='\033[0;31m'
 clear='\033[0m'
 
 iterations=3
+user_ip=$(curl -s ifconfig.me)
 
 # Start the loading animation
 for i in $(seq 1 $iterations); do
@@ -25,7 +26,8 @@ echo -e "Loading complete!"
 figlet "DATA SECURITY LAB" -f smslant -c
 echo "2023, All copyright reserved to Mr. Devsatyam Ray."
 sleep 1
-
+echo "Your public IP address is: $user_ip"
+sleep 1
 echo "Menu:"
 printf "1.${green}Steganography${clear}\n"
 printf "2.${red}Cryptography${clear}\n"
