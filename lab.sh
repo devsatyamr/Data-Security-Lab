@@ -40,9 +40,9 @@ if [ $option -eq 2 ]; then
 	echo "2.Decrypt"
 	read option1
 	if [ $option1 -eq 1 ]; then
-		python3 voldemort.py
+		python3 thanos.py
 	elif [ $option1 -eq 2 ]; then
-		python3 harry.py
+		python3 thor.py
 	else
 		echo "Invalid Option!!"
 	fi
