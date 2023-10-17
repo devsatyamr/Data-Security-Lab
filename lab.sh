@@ -7,7 +7,7 @@ clear='\033[0m'
 
 iterations=3
 user_ip=$(curl -s ifconfig.me)
-
+user=$(whoami)
 # Start the loading animation
 for i in $(seq 1 $iterations); do
     # Clear the line
@@ -26,6 +26,7 @@ echo -e "Loading complete!"
 figlet "DATA SECURITY LAB" -f smslant -c
 echo "2023, All copyright reserved to Mr. Devsatyam Ray."
 sleep 1
+echo "The current user is: $user"
 echo "Your public IP address is: $user_ip"
 sleep 1
 echo "Menu:"
@@ -59,4 +60,3 @@ elif [ $option -eq 1 ]; then
 else
 	echo "INVALID OPTION!!"
 fi
-
